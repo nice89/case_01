@@ -1,24 +1,7 @@
-# vue_test
+# Case 1
 
-## Project setup
-```
-npm install
-```
+How to call methods of child components and handle data.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+And how to call methods of parent components and handle data.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [stackoverflow answer](https://stackoverflow.com/questions/55316490/vue-best-practice-for-calling-a-method-in-a-child-component/55317353).
